@@ -1,0 +1,4 @@
+Django==1.11
+django-facebook==6.0.3
+pytz==2017.2
+Unidecode==0.4.20
